@@ -4,6 +4,12 @@ A full-stack real-time messaging application built with the MERN stack, featurin
 
 ![Chat Application](https://img.shields.io/badge/MERN-Stack-blue) ![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--time-green) ![JWT](https://img.shields.io/badge/JWT-Authentication-orange)
 
+## 🌐 Live Demo
+
+🔗 **[Try the Live Application](https://pingme-ojyy.onrender.com/login)**
+
+*Note: The app may take a moment to load initially due to Render's free tier cold start.*
+
 ## 🚀 Features
 
 - **Real-time Messaging**: Instant message delivery using Socket.IO
